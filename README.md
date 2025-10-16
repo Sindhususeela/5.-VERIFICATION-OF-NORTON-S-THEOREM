@@ -1,5 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
-
+##  NAME: SINDHU V
+## REF NO: 25018071
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -26,18 +27,27 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+![WhatsApp Image 2025-10-16 at 19 58 06_39bf9ce9](https://github.com/user-attachments/assets/6dcbd9d5-3d56-4959-808e-c0812de10380)
+
 
 **To measure RTh or RN**
 
+![WhatsApp Image 2025-10-16 at 19 58 33_579df459](https://github.com/user-attachments/assets/5b577de2-0963-47b8-8fe5-6bed4ec68a60)
 
 
 **To measure IN or Isc**
 
- 
-**Thevenin’s equivalent circuit**
-
+ ![WhatsApp Image 2025-10-16 at 19 59 01_75ba7109](https://github.com/user-attachments/assets/57b3b04e-222b-4973-9005-71b72abe762c)
 
 **Norton’s equivalent circuit**
+
+![WhatsApp Image 2025-10-16 at 19 59 21_d38a4e27](https://github.com/user-attachments/assets/1ce2603c-f80f-4452-a114-89129733cf30)
+
+![WhatsApp Image 2025-10-16 at 19 57 24_af3eb565](https://github.com/user-attachments/assets/794a49a8-9bca-4ffb-9be2-9c2b26d0b937)
+
+![WhatsApp Image 2025-10-16 at 19 56 47_b2d99e62](https://github.com/user-attachments/assets/1238210d-cc80-4033-ae8e-ab0ae2c815b4)
+
+![WhatsApp Image 2025-10-16 at 19 56 47_0ec210ad](https://github.com/user-attachments/assets/4bfe1458-0dd8-4fec-8ffd-a1544cfe2820)
 
 
 **PROCEDURE:**
